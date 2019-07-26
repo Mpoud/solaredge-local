@@ -4,7 +4,6 @@ import io
 import codecs
 import os
 import sys
-import urllib3
 
 import solaredge_local
 
